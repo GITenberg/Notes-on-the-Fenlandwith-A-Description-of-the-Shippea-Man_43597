@@ -1,0 +1,33 @@
+_repo: Notes-on-the-Fenlandwith-A-Description-of-the-Shippea-Man_43597
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Macalister, Alex. (Alexander)‏
+    alias: Macalister, Alexander
+    gutenberg_agent_id: '42317'
+    url: http://www.gutenberg.org/2009/agents/42317
+covers:
+- cover_type: archival
+  image_path: 43597-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Hughes, Thomas McKenny
+    alias: Hughes, T. M. (Thomas McKenny)
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '42316'
+    url: http://www.gutenberg.org/2009/agents/42316
+description: ''
+gutenberg_issued: '2013-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- England -- Bedford Level'
+- !lcc 'QE'
+title: Notes on the Fenland; with A Description of the Shippea Man
+url: http://www.gutenberg.org/ebooks/43597
